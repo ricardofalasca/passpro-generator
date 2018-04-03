@@ -1,1 +1,1 @@
-from passpro import PasswordPronounceable
+from .passpro import PasswordPronounceable
