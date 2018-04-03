@@ -1,7 +1,7 @@
 import operator
 from functools import reduce
 
-from utils import rand, DIGRAPHS_FREQUENCY 
+from .utils import rand, DIGRAPHS_FREQUENCY 
 
 
 class PasswordPronounceable:
