@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ricardofalasca/passpro-generator.svg?branch=master)](https://travis-ci.org/ricardofalasca/passpro-generator)
+
 # passpro-generator
 Generates pronounceable passwords
 
