@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='passpro-generator',
-    version='1.0.2',
+    version='1.0.3',
     description="Generate pronounceable passwords",
     url='https://github.com/ricardofalasca/passpro-generator',
     author='Ricardo Falasca',
